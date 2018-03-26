@@ -175,3 +175,4 @@ int printAutoSuggestions(TrieNode* root, const string query)
  
     return 0;
 }
+ cout<<"we dit it"<<endl;
